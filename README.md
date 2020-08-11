@@ -6,3 +6,6 @@
   <a href="https://twitter.com/yesdeepakmittal"target="_blank"><img src="https://img.shields.io/twitter/follow/yesdeepakmittal?style=social"></a>
   <p>Check out its webpage at https://yesdeepakmittal.github.io/pytraining/</p>
     </div>
+<div>
+  <h2>Download Python from https://www.python.org/downloads/</h2>
+  <h2>Use any online cloud-based jupyter notebook such Google Colab, Azure notebook, IBM cloud notebook, etc for online editing and saving code directly into your Github repository</h2>
