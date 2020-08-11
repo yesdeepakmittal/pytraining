@@ -7,5 +7,5 @@
   <p>📌Check out its webpage at https://yesdeepakmittal.github.io/pytraining/</p>
     </div>
 <div>
-  <h2>Download Python from https://www.python.org/downloads/</h2>
-  <h2>Use any online cloud-based jupyter notebook such Google Colab, Azure notebook, IBM cloud notebook, etc for online editing and saving code directly into your Github repository</h2>
+  <p>Download Python from https://www.python.org/downloads/</p>
+  <p>Use any online cloud-based jupyter notebook such Google Colab, Azure notebook, IBM cloud notebook, etc for online editing and saving code directly into your Github repository</p>
