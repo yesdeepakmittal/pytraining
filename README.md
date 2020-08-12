@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Pytraining</h1>
-  <p>This repository contains the Python code for the learners who are starting to learn Python from scratch.</p>
+  <p>This repository contains the Python code to learn python from scratch to competitive level.</p>
   <p>📌Check out its webpage at https://yesdeepakmittal.github.io/pytraining/</p>
     </div>
 <div>
