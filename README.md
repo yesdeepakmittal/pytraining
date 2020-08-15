@@ -17,3 +17,5 @@ You can fork this repository to have a local version of it or if you want to mak
 
 <h2>License</h2>
 This work is licensed under MIT License. Read <a href="https://github.com/yesdeepakmittal/pytraining/blob/master/LICENSE"target="_blank">License.md</a> file to know about it. 
+
+<b>Happy Coding :)🖤🖤🖤</b>
