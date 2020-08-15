@@ -9,4 +9,6 @@
   <p>Download Python from https://www.python.org/downloads/</p>
   <p>Use any online cloud-based jupyter notebook such Google Colab, Azure notebook, IBM cloud notebook, etc for online editing and saving code directly into your Github repository</p>
   </div>
-# Support this work by hitting star button on the upper-right corner
+  
+<h2>Your Support</h2>
+<b>Support</b> this work by hitting star button on the upper-right corner and by suggesting for any change
