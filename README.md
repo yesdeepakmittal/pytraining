@@ -11,4 +11,7 @@
   </div>
   
 <h2>Your Support</h2>
-<b>Support</b> this work by hitting star button on the upper-right corner and by suggesting for any change
+<b>Support</b> this work by hitting star button on the upper-right corner and by suggesting for any change on the Medium. 
+
+<h2>License</h2>
+This work is licensed under MIT License. Read [https://github.com/yesdeepakmittal/pytraining/blob/master/LICENSE](License.md) file to know about it. 
