@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Pytraining</h1>
-   <center><h2>By: <a href="https://github.com/yesdeepakmittal"target="_blank">Deepak Mittal</a></h2></center>
-   <center><a href="https://github.com/yesdeepakmittal"target="_blank"><img src="https://img.shields.io/github/followers/yesdeepakmittal?style=social"></a></center>
+   <center><h2>By: <a href="https://github.com/yesdeepakmittal"target="_blank">Deepak Mittal</a>(<a href="https://github.com/yesdeepakmittal"target="_blank"><img src="https://img.shields.io/github/followers/yesdeepakmittal?style=social"></a>)</h2></center>
+<!--    <center><a href="https://github.com/yesdeepakmittal"target="_blank"><img src="https://img.shields.io/github/followers/yesdeepakmittal?style=social"></a></center> -->
   <p>This repository contains the Python code to learn python from scratch to competitive level.</p>
   <p>📌Check out its webpage at https://yesdeepakmittal.github.io/pytraining/</p>
     </div>
