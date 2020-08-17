@@ -12,9 +12,9 @@
 You can fork this repository to have a local version of it or if you want to make some changes to it. Try to run each code cells in your own machine and vary some contents in it to get better understanding.
 
 <h2>Your Support</h2>
-<b>Support</b> this work by hitting <a href="https://github.com/yesdeepakmittal/pytraining/stargrazers/"><img src="https://img.shields.io/github/stars/yesdeepakmittal/pytraining?style=social"</a> button on the upper-right corner. 
+<b>Support</b> this work by hitting <a href="https://github.com/yesdeepakmittal/pytraining/stargrazers/"><img src="https://img.shields.io/github/stars/yesdeepakmittal/pytraining?style=social"></a> button on the upper-right corner. 
 
 <h2>License</h2>
-This work is licensed under MIT License. Read <a href="https://github.com/yesdeepakmittal/pytraining/blob/master/LICENSE"target="_blank">License.md</a> file to know about it. 
+This work is licensed under <a href="https://github.com/yesdeepakmittal/pytraining/blob/master/LICENSE"target="_blank"><img src="https://img.shields.io/github/license/yesdeepakmittal/pytraining"></a>.
 <h2></h2>
 <b>Happy Coding :)🖤🖤🖤</b>
