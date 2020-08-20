@@ -9,7 +9,7 @@
 <p><a href="https://github.com/HritikRastogi"target="_blank">Hritik Rastogi</a></p>
 
 <h2>2️⃣ How to get started</h2>
-<p>Download [Python](https://www.python.org/downloads/)or use any online cloud-based jupyter notebook such Google Colab, Azure notebook, IBM cloud notebook, etc for online editing and saving code directly into your Github repository</p>
+Download [Python](https://www.python.org/downloads/)or use any online cloud-based jupyter notebook such Google Colab, Azure notebook, IBM cloud notebook, etc for online editing and saving code directly into your Github repository
 You can <a href="https://github.com/yesdeepakmittal/pytraining/"><img src="https://img.shields.io/github/forks/yesdeepakmittal/pytraining?label=fork&style=social"></a> this repository to have a local version of it or if you want to make some changes to it. Try to run each code cells in your own machine and vary some contents in it to get better understanding.
 
 <h2>3️⃣ Your Support</h2>
