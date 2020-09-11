@@ -18,4 +18,4 @@ You can <a href="https://github.com/yesdeepakmittal/pytraining/"><img src="https
 <h2>4️⃣ License</h2>
 This work is licensed under <a href="https://github.com/yesdeepakmittal/pytraining/blob/master/LICENSE"target="_blank"><img src="https://img.shields.io/github/license/yesdeepakmittal/pytraining"></a>.
 <h2></h2>
-<p aling='center'><b>Happy Coding :)🖤🖤🖤</b></p>
+<p align='right'><b>Happy Coding :)🖤🖤🖤</b></p>
