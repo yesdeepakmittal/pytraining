@@ -22,4 +22,7 @@ Support this work by sharing it with those who can be benefitted of these code f
 
 <h2>5️⃣ License</h2>
 This work is licensed under <a href="https://github.com/yesdeepakmittal/pytraining/blob/master/LICENSE"target="_blank"><img src="https://img.shields.io/github/license/yesdeepakmittal/pytraining"></a>.
+
+<h2>6️⃣ Discussion</h2>
+💬 Discuss your doubts in the discussion section at https://github.com/yesdeepakmittal/pytraining/discussions
 <p align='right'><b>Happy Coding :)🖤🖤🖤</b></p>
