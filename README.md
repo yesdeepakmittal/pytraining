@@ -20,9 +20,7 @@ You can <a href="https://github.com/yesdeepakmittal/pytraining/"><img src="https
 <h2>4️⃣ Your Support</h2>
 Support this work by sharing it with those who can be benefitted of these code files. 
 
-<h2>5️⃣ License</h2>
-This work is licensed under <a href="https://github.com/yesdeepakmittal/pytraining/blob/master/LICENSE"target="_blank"><img src="https://img.shields.io/github/license/yesdeepakmittal/pytraining"></a>.
-
-<h2>6️⃣ Discussion</h2>
+<h2>5️⃣ Discussion</h2>
 💬 Discuss your doubts or give your feedback in the <a href="https://github.com/yesdeepakmittal/pytraining/discussions">discussion section</a>
+
 <p align='right'><b>Happy Coding :)🖤🖤🖤</b></p>
