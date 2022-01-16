@@ -8,6 +8,9 @@
  ┣ 📜03-Conditional_Statement.ipynb
  ┣ 📜04-Exception_Enumerate.ipynb
  ┣ 📜05-Other_Built-in.ipynb
+     ┣ Debugging
+     ┣ Max/Min Limit 
+     ┣ Comparator
  ┣ 📜06-Generator_Map_reduce_filter_pdChunk.ipynb
      ┣ Variable Scope
      ┣ Flexible Function
@@ -20,6 +23,7 @@
      ┣ zip()
      ┣ List/dict Comprehension
      ┣ Generators
+ ┣ 📜07-Files.ipynb
  ┗ 📜11-Patterns.ipynb
  
 📦02 - Data Structure
