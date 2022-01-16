@@ -24,6 +24,9 @@
      ┣ List/dict Comprehension
      ┣ Generators
  ┣ 📜07-Files.ipynb
+     ┣ Reading a file(Using Walrus Operator)
+     ┣ Writing a file
+     ┣ Appending a file 
  ┗ 📜11-Patterns.ipynb
  
 📦02 - Data Structure
