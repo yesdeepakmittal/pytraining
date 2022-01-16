@@ -1,7 +1,7 @@
 # pytraining
 
 *A very compact overview of Python Programming*
-
+```
 📦01 - Basics
  ┣ 📜01-Python_Operators.ipynb
  ┣ 📜02-DataType.ipynb
@@ -15,3 +15,4 @@
 📦Advanced
  ┣ 📜datetime.ipynb
  ┗ 📜numpy_pandas.ipynb
+ ```
