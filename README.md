@@ -17,8 +17,3 @@
 📦Advanced
  ┣ 📜datetime.ipynb
  ┗ 📜numpy_pandas.ipynb
-<<<<<<< HEAD
- ```
-=======
- ```
->>>>>>> 2491398fbcfb5d64cd5e3c2d15c23d8ef4c5a097
