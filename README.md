@@ -9,6 +9,17 @@
  ┣ 📜04-Exception_Enumerate.ipynb
  ┣ 📜05-Other_Built-in.ipynb
  ┣ 📜06-Generator_Map_reduce_filter_pdChunk.ipynb
+     ┣ Variable Scope
+     ┣ Flexible Function
+     ┣ lambda
+     ┣ map()
+     ┣ filter()
+     ┣ reduce()
+     ┣ Iterator & Iterable
+     ┣ enumerate()
+     ┣ zip()
+     ┣ List/dict Comprehension
+     ┣ Generators
  ┗ 📜11-Patterns.ipynb
  
 📦02 - Data Structure
