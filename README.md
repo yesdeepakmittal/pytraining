@@ -10,9 +10,15 @@
  ┣ 📜05-Other_Built-in.ipynb
  ┣ 📜06-Generator_Map_reduce_filter_pdChunk.ipynb
  ┗ 📜11-Patterns.ipynb
+ 
 📦02 - Data Structure
  ┗ 📜LinkedList.ipynb
+ 
 📦Advanced
  ┣ 📜datetime.ipynb
  ┗ 📜numpy_pandas.ipynb
+<<<<<<< HEAD
  ```
+=======
+ ```
+>>>>>>> 2491398fbcfb5d64cd5e3c2d15c23d8ef4c5a097
