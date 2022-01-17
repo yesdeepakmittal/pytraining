@@ -24,7 +24,7 @@
      ┣ List/dict Comprehension
      ┣ Generators
  ┣ 📜07-Files.ipynb
-     ┣ Reading a file(Using Walrus Operator)
+     ┣ Reading a file(with Walrus Operator)
      ┣ Writing a file
      ┣ Appending a file 
  ┗ 📜11-Patterns.ipynb
