@@ -35,3 +35,7 @@
 📦Advanced
  ┣ 📜datetime.ipynb
  ┗ 📜numpy_pandas.ipynb
+
+
+### Blogs & Other resources
+- [Asynchronous Programming](https://medium.com/velotio-perspectives/an-introduction-to-asynchronous-programming-in-python-af0189a88bbb) 
