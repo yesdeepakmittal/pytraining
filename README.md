@@ -1,6 +1,6 @@
 # pytraining
 
-*A very compact overview of Python Programming*
+*A high-level compact overview of Python Programming*
 ```
 📦01 - Basics
  ┣ 📜01-Python_Operators.ipynb
@@ -27,6 +27,7 @@
      ┣ Reading a file(with Walrus Operator)
      ┣ Writing a file
      ┣ Appending a file 
+ ┣ 📜08-OOP.ipynb
  ┗ 📜11-Patterns.ipynb
  
 📦02 - Data Structure
